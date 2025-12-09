@@ -3,7 +3,7 @@ A Unity Editor tool that captures and displays real-time events.
 
 ## Installation
 Use Unity Package Manager → Add package from Git URL:
-https://github.com/draganstamenkovic/event-monitor.git
+<br>https://github.com/draganstamenkovic/event-monitor.git
 
 ## Features
 - Real-time event tracking
