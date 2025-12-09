@@ -1,0 +1,23 @@
+{
+  "name": "com.draganstamenkovic.eventmonitor",
+  "version": "1.0.0",
+  "displayName": "In-Editor Events & Diagnostics Monitor",
+  "description": "A real-time event diagnostics tool for Unity that tracks C# events, UnityEvents, and EventBus messages with sender, receiver, timestamp, and frequency.",
+  "unity": "6000.3.0f1",
+  "author": {
+    "name": "Dragan Stamenkovic",
+    "email": "draganstamenkovic@outlook.com",
+    "url": "https://github.com/draganstamenkovic"
+  },
+  "documentationUrl": "https://github.com/draganstamenkovic/event-monitor",
+  "changelogUrl": "https://github.com/draganstamenkovic/event-monitor/CHANGELOG.md",
+  "keywords": [
+    "unity",
+    "editor",
+    "tools",
+    "debugging",
+    "events",
+    "diagnostics",
+    "monitor"
+  ]
+}
