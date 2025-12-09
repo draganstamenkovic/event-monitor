@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "In-Editor Events & Diagnostics Monitor",
   "description": "A real-time event diagnostics tool for Unity that tracks C# events, UnityEvents, and EventBus messages with sender, receiver, timestamp, and frequency.",
-  "unity": "6000.3.0f1",
+  "unity": "6000.3",
   "author": {
     "name": "Dragan Stamenkovic",
     "email": "draganstamenkovic@outlook.com",
