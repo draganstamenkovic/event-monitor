@@ -1,5 +1,7 @@
 # In-Editor Events & Diagnostics Monitor
 A Unity Editor tool that captures and displays real-time events.
+![demo](https://github.com/user-attachments/assets/702e2005-5fa2-4486-a0c8-a8a2564350ce)
+
 
 ## Installation
 Use Unity Package Manager → Add package from Git URL:
